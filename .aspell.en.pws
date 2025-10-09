@@ -1,4 +1,4 @@
-personal_ws-1.1 en 461 
+personal_ws-1.1 en 478 
 APIs
 APK
 APKs
@@ -94,9 +94,11 @@ aos
 async
 atomicity
 atomics
+audiobook
 aukus
 avx
 backend
+backlists
 backticks
 balkanization
 behaviorspec
@@ -123,6 +125,7 @@ bysshe
 bytecode
 cacheable
 camelCase
+cantina
 cas
 centric
 cfs
@@ -142,6 +145,7 @@ constexpr
 convenings
 copyable
 coroutines
+cosmical
 counternarrative
 counterterrorism
 cpp
@@ -189,11 +193,14 @@ dreadfuls
 dtos
 dystopias
 ebo
+ebook
+ebooks
 eloi
 enum
 ethicists
 executable's
 executables
+exoticized
 expr
 facto
 fanbase
@@ -219,9 +226,12 @@ getters
 gimple
 gitops
 godwin
+goodreads
+gothic
 gpg
 gpus
 graalvm's
+grey
 gstring
 gstrings
 handedly
@@ -248,6 +258,7 @@ intelligences
 interconnectedness
 interdependencies
 intergenerational
+interlibrary
 internets
 interprocedural
 invariants
@@ -313,6 +324,7 @@ nginx
 nic
 nic's
 nics
+noir
 npm
 ns
 nullable
@@ -363,6 +375,7 @@ rebalancing
 recalibration
 recompiles
 reconfiguring
+reddit
 refactorings
 regionalization
 regionalized
@@ -409,6 +422,7 @@ suboptimal
 subproject
 subproject's
 subprojects
+subreddit
 syscall
 syscalls
 tambora
@@ -433,6 +447,7 @@ typedef
 uber
 ubi
 ublas
+unapologetically
 underutilization
 unifier
 unipolarity
@@ -443,6 +458,8 @@ unseq
 unsequenced
 untethers
 utopian
+vampiric
+vampirism
 vampyre
 vectorization
 vectorize
