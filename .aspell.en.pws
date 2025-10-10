@@ -1,13 +1,15 @@
-personal_ws-1.1 en 521 
+personal_ws-1.1 en 560 
 APIs
 APK
 APKs
 Adoptium
 Ansible
 Artifactory
+AssertJ
 BOM
 BOMs
 Buildship
+CPUs
 Capitan
 CentOS
 Checkstyle
@@ -18,13 +20,16 @@ DSLs
 DevOps
 Ethereum
 GAV
+GPUs
 GitLab
 GraalVM
 Gradle
 Gradle's
 Groovy's
 Gson
+Hamcrest
 Hotspots
+IDE's
 IDEs
 IaC
 IntelliJ
@@ -34,6 +39,7 @@ Iteratively
 JARs
 JDBC
 JDK
+JRE
 JSON
 JUnit
 JVM
@@ -68,6 +74,7 @@ TypeScript
 UI
 VCS
 VM
+VTune
 WARs
 WSL
 YAML
@@ -94,6 +101,7 @@ animalistic
 anonymization
 antonie
 aos
+assertj
 async
 atomicity
 atomics
@@ -125,9 +133,11 @@ bioweapons
 bitcode
 bitwise
 bool
+booleans
 bootable
 bootcamps
 bram
+breakpoint
 buildable
 buildscript
 bysshe
@@ -164,6 +174,7 @@ crispr
 crosstalk
 crypto
 cryptographic
+csv
 customizable
 customizations
 cyber
@@ -203,8 +214,10 @@ downclocking
 dpdk
 dreadfuls
 dtos
+durations
 dystopias
 dystrophy
+easymock
 ebo
 ebook
 ebooks
@@ -216,6 +229,8 @@ executables
 exoticized
 expr
 facto
+failsafe
+fallbacks
 fanbase
 fidelities
 filesystem
@@ -245,6 +260,8 @@ gothic
 gpg
 gpus
 graalvm's
+gradle
+granularities
 grey
 gstring
 gstrings
@@ -271,6 +288,7 @@ infiniband
 initializer
 inlined
 inlining
+instantiation
 integrations
 intelligences
 interconnectedness
@@ -288,6 +306,7 @@ isa
 isas
 isr
 isrs
+iterable
 javadoc
 javaone
 jcenter
@@ -295,6 +314,7 @@ jdks
 jfrog
 jit
 jitter
+jqwik
 js
 jvm's
 kallipolis
@@ -304,6 +324,7 @@ kubernetes
 laputa
 latencies
 lifecycle
+lifecycles
 linkedin
 linters
 livelock
@@ -313,6 +334,7 @@ lookaside
 lookups
 lto
 macOS
+matchers
 megacities
 megalomaniacal
 mellanox
@@ -324,6 +346,9 @@ microservice
 microservices
 misprediction
 mispredictions
+mock's
+mockito
+mockito's
 modularity
 modularizing
 monogenic
@@ -364,7 +389,9 @@ orchestrator
 overextension
 overfishing
 overleveraged
+oversubscription
 palantir
+parallelizable
 parallelize
 parallelizing
 parsers
@@ -390,11 +417,15 @@ prefetcher
 prefetchers
 prefetching
 prendick
+profiler
+profilers
+programmatically
 proto
 ptr
 ptr's
 qubit
 qubits
+quickcheck
 raii
 rcs
 rcu
@@ -414,6 +445,8 @@ renewables
 reproducibility
 reshoring
 reskilling
+resolvers
+rethrows
 reusability
 revanchist
 rnas
@@ -444,6 +477,7 @@ spinlock
 springone
 ssds
 starships
+stateful
 stl
 stringspec
 struct
@@ -457,6 +491,7 @@ subproject
 subproject's
 subprojects
 subreddit
+surefire's
 syscall
 syscalls
 tambora
@@ -465,8 +500,10 @@ tcp
 teardown
 telemedicine
 templateVersion
+templating
 territorially
 testability
+testcontainers
 testng
 th
 timeframe
@@ -486,6 +523,7 @@ ubi
 ublas
 unapologetically
 underserved
+understandability
 underutilization
 unenhanced
 unifier
@@ -518,5 +556,6 @@ weaponization
 wearables
 webapp
 webassembly
+xml
 ymm
 zips
