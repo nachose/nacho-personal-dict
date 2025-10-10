@@ -1,4 +1,4 @@
-personal_ws-1.1 en 478 
+personal_ws-1.1 en 521 
 APIs
 APK
 APKs
@@ -29,6 +29,7 @@ IDEs
 IaC
 IntelliJ
 IntelliJ's
+IoT
 Iteratively
 JARs
 JDBC
@@ -76,6 +77,7 @@ accelerants
 accessors
 accommodative
 acyclic
+agi
 agp
 agp's
 aldini
@@ -89,6 +91,7 @@ amidst
 androidx
 animalism
 animalistic
+anonymization
 antonie
 aos
 async
@@ -96,6 +99,7 @@ atomicity
 atomics
 audiobook
 aukus
+autologous
 avx
 backend
 backlists
@@ -103,10 +107,15 @@ backticks
 balkanization
 behaviorspec
 bintray
+biocompatible
 biodefense
 bioengineering
 bioethical
+bioethicists
 biofuels
+biometric
+bioprinted
+bioprinting
 biosafety
 biosecurity
 biotechnologies
@@ -129,6 +138,7 @@ cantina
 cas
 centric
 cfs
+chatbots
 checksums
 classpath
 cli
@@ -151,6 +161,7 @@ counterterrorism
 cpp
 cpus
 crispr
+crosstalk
 crypto
 cryptographic
 customizable
@@ -171,6 +182,7 @@ decarbonization
 decarbonize
 decarbonizing
 decrypt
+decrypted
 delacey
 deleters
 deployable
@@ -192,6 +204,7 @@ dpdk
 dreadfuls
 dtos
 dystopias
+dystrophy
 ebo
 ebook
 ebooks
@@ -204,6 +217,7 @@ exoticized
 expr
 facto
 fanbase
+fidelities
 filesystem
 fintech
 flashpoint
@@ -241,9 +255,13 @@ hardcoding
 hdds
 hegemon
 hegemonies
+homomorphic
 hubristic
 hypersonic
 ide's
+immunomodulation
+immunosuppressive
+immunotherapies
 impactful
 incentivize
 incentivizing
@@ -262,6 +280,8 @@ interlibrary
 internets
 interprocedural
 invariants
+invasiveness
+iot
 irq
 irqs
 isa
@@ -306,6 +326,7 @@ misprediction
 mispredictions
 modularity
 modularizing
+monogenic
 monorepos
 moreau
 moreau's
@@ -319,6 +340,7 @@ multipolar
 multipolarity
 mutex
 mutexes
+nanoparticles
 natively
 nginx
 nic
@@ -333,6 +355,7 @@ numa
 nvme
 odr
 onboarding
+oncogenic
 onload
 onwards
 optimizable
@@ -347,12 +370,16 @@ parallelizing
 parsers
 perf
 performant
+personalization
 petrostates
 pgo
 pgo's
+photonic
 pipelined
 pipelining
+pluripotent
 polidori
+polygenic
 polymorphism
 pragma
 pragmas
@@ -366,6 +393,8 @@ prendick
 proto
 ptr
 ptr's
+qubit
+qubits
 raii
 rcs
 rcu
@@ -379,15 +408,19 @@ reddit
 refactorings
 regionalization
 regionalized
+reinfused
 relatability
 renewables
 reproducibility
 reshoring
+reskilling
 reusability
 revanchist
+rnas
 roadmap
 rodata
 rollout
+rsa
 salinization
 scalable
 schemas
@@ -399,6 +432,7 @@ servlet
 sfinae
 shapeshifters
 shockwaves
+shor's
 shrivelled
 siloed
 simd
@@ -429,16 +463,19 @@ tambora
 tars
 tcp
 teardown
+telemedicine
 templateVersion
 territorially
 testability
 testng
 th
+timeframe
 tlb
 tmp
 toolchain
 toolchains
 transboundary
+transcriptase
 transformative
 traveller
 traveller's
@@ -448,15 +485,19 @@ uber
 ubi
 ublas
 unapologetically
+underserved
 underutilization
+unenhanced
 unifier
 unipolarity
 unmanaged
+unpatched
 unreproducible
 unresolvable
 unseq
 unsequenced
 untethers
+upskilling
 utopian
 vampiric
 vampirism
@@ -466,6 +507,7 @@ vectorize
 vectorized
 vectorizer
 verifiably
+vitro
 vma
 vms
 vtable
@@ -473,6 +515,7 @@ vtune
 wakeups
 wasm
 weaponization
+wearables
 webapp
 webassembly
 ymm
