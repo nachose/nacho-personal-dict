@@ -1,4 +1,4 @@
-personal_ws-1.1 en 560 
+personal_ws-1.1 en 581 
 APIs
 APK
 APKs
@@ -102,6 +102,8 @@ anonymization
 antonie
 aos
 assertj
+ast
+asts
 async
 atomicity
 atomics
@@ -170,6 +172,7 @@ counternarrative
 counterterrorism
 cpp
 cpus
+creational
 crispr
 crosstalk
 crypto
@@ -308,6 +311,7 @@ isr
 isrs
 iterable
 javadoc
+javafx
 javaone
 jcenter
 jdks
@@ -316,6 +320,7 @@ jit
 jitter
 jqwik
 js
+junit's
 jvm's
 kallipolis
 keystore
@@ -326,7 +331,9 @@ latencies
 lifecycle
 lifecycles
 linkedin
+linq
 linters
+liskov
 livelock
 livelocks
 llvm
@@ -386,6 +393,7 @@ onwards
 optimizable
 optimizers
 orchestrator
+overcomplicating
 overextension
 overfishing
 overleveraged
@@ -404,6 +412,7 @@ pgo's
 photonic
 pipelined
 pipelining
+platformer
 pluripotent
 polidori
 polygenic
@@ -421,8 +430,10 @@ profiler
 profilers
 programmatically
 proto
+pseudocode
 ptr
 ptr's
+pythonic
 qubit
 qubits
 quickcheck
@@ -454,12 +465,15 @@ roadmap
 rodata
 rollout
 rsa
+rsync
+runnable
 salinization
 scalable
 schemas
 scientifiction
 securitization
 securocrats
+serializer
 serverless
 servlet
 sfinae
@@ -507,6 +521,7 @@ testcontainers
 testng
 th
 timeframe
+tkinter
 tlb
 tmp
 toolchain
@@ -516,15 +531,18 @@ transcriptase
 transformative
 traveller
 traveller's
+traversable
 tx
 typedef
 uber
 ubi
 ublas
+uml
 unapologetically
 underserved
 understandability
 underutilization
+undoable
 unenhanced
 unifier
 unipolarity
@@ -545,12 +563,15 @@ vectorize
 vectorized
 vectorizer
 verifiably
+visitable
 vitro
+vlissides
 vma
 vms
 vtable
 vtune
 wakeups
+walkthrough
 wasm
 weaponization
 wearables
