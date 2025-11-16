@@ -1,4 +1,4 @@
-personal_ws-1.1 en 710 
+personal_ws-1.1 en 750 
 APIs
 APK
 APKs
@@ -19,6 +19,7 @@ DSL's
 DSLs
 DevOps
 Ethereum
+FaaS
 GAV
 GPUs
 GitLab
@@ -119,8 +120,11 @@ autologous
 avro
 avx
 backend
+backend's
+backends
 backlists
 backticks
+balancer
 balkanization
 bazel
 bazel's
@@ -156,6 +160,7 @@ buildscript
 bysshe
 bytecode
 cacheable
+callee
 camelCase
 cantina
 cardinality
@@ -184,6 +189,7 @@ configurability
 const
 consteval
 constexpr
+contrib
 convenings
 copyable
 coroutine
@@ -211,6 +217,7 @@ cyberattacks
 cybercrime
 cybersecurity
 cyberwarfare
+datadog
 dataframes
 de
 deallocate
@@ -287,6 +294,7 @@ franca
 frontend
 funspec
 galilei
+gantt
 gbps
 gc
 gc'd
@@ -304,6 +312,8 @@ gmock
 godwin
 goodreads
 googletest
+goroutine
+goroutines
 gothic
 gpg
 gpus
@@ -316,6 +326,7 @@ gstring
 gstrings
 gtest
 handedly
+handoff
 hardcode
 hardcoded
 hardcoding
@@ -342,6 +353,9 @@ inlined
 inlining
 instantiation
 instantiations
+instrumentations
+instrumentor
+instrumentors
 integrations
 intelligences
 intentionality
@@ -361,6 +375,8 @@ isas
 isr
 isrs
 iterable
+jaeger
+jaeger's
 javadoc
 javafx
 javaone
@@ -419,11 +435,13 @@ microbenchmark
 microbenchmarking
 microservice
 microservices
+middleware
 minified
 misconfigured
 misconfiguring
 misprediction
 mispredictions
+mitmproxy
 mock's
 mockable
 mockito
@@ -438,6 +456,7 @@ morlock
 morlocks
 mrna
 msvc
+mttr
 multilateralism
 multiplatform
 multipolar
@@ -461,6 +480,7 @@ nullable
 nullptr
 numa
 nvme
+observability
 odbc
 odr
 onboarding
@@ -468,9 +488,15 @@ oncogenic
 onedrive
 onload
 onwards
+opentelemetry
+opentelemetry's
 optimizable
 optimizers
 orchestrator
+orms
+otel
+otel's
+otlp
 overcomplexity
 overcomplicating
 overextension
@@ -527,7 +553,9 @@ pytest
 pythonic
 qubit
 qubits
+queueing
 quickcheck
+rabbitmq
 raii
 rcs
 rcu
@@ -568,6 +596,7 @@ runtimes
 salinization
 sandboxed
 sandboxing
+sanitization
 scalable
 schemas
 scientifiction
@@ -589,8 +618,11 @@ soa
 solarflare
 somnium
 sonatype
+spanprocessor
 spinlock
+splunk
 springone
+sqlalchemy
 ssds
 starships
 stateful
@@ -640,6 +672,7 @@ tmp
 toolchain
 toolchains
 toolkits
+tracerprovider
 transboundary
 transcriptase
 transformative
@@ -647,6 +680,7 @@ traveller
 traveller's
 traversable
 tsv
+ttl
 tx
 typedef
 typescript's
@@ -654,6 +688,7 @@ uber
 ubi
 ublas
 udemy
+uis
 uml
 unapologetically
 underserved
@@ -662,7 +697,9 @@ underutilization
 undoable
 unenhanced
 unescaped
+unhandled
 unifier
+unindexed
 unipolarity
 unmanaged
 unmarshalling
@@ -680,6 +717,7 @@ upskilling
 utf
 utopian
 uuid
+ux
 vampiric
 vampirism
 vampyre
@@ -706,6 +744,8 @@ wearables
 webapp
 webassembly
 whitespace
+wireshark
 xml
 ymm
+zipkin
 zips
